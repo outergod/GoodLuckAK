@@ -22,5 +22,6 @@
     (println " - Matthias")
     (println " - TEAM NMAA")
     (println " - Suresh - Good luck for the new venture!")
-    (println " - Marco - Good luck and all the best! Keep sticking with your principles - and consider switching to vi :-)"))
+    (println " - Marco - Good luck and all the best! Keep sticking with your principles - and consider switching to vi :-)")
+    (println " - Jun"))
   (print unchg-color))
