@@ -8,4 +8,5 @@
   (println " - Enda")
   (println " - Antti Heinonen")
   (println " - Luigi")
-  (println " - Zeno"))
+  (println " - Zeno")
+  (println " - count .. Thanks for all the effort & heart put in for Linux & OSS at HERE!"))
