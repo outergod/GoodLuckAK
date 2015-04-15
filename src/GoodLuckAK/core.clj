@@ -24,5 +24,6 @@
     (println " - Suresh - Good luck for the new venture!")
     (println " - Marco - Good luck and all the best! Keep sticking with your principles - and consider switching to vi :-)")
     (println " - Jun")
-    (println " - Thorsten - You convinced me to use Fedora, lots of fascinating bugs I'd have missed otherwise ;-) cu on codewars :-)"))
+    (println " - Thorsten - You convinced me to use Fedora, lots of fascinating bugs I'd have missed otherwise ;-) cu on codewars :-)")
+    (println " - Jeremie - I wish you a future filled with happiness"))
   (print unchg-color))
