@@ -17,5 +17,6 @@
     (println " - Elke - May your new adventures bring you lots of fun and excitement!")
     (println " - Tillmann")
     (println " - Matthias")
-    (println " - TEAM NMAA"))
+    (println " - TEAM NMAA")
+    (println " - Marco - Good luck and all the best! Keep sticking with your principles - and consider switching to vi :-)"))
   (print unchg-color))
