@@ -2,6 +2,6 @@
   (:gen-class))
 
 (defn -main
-  "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!"))
+  (println "It was a great pleasure to work with you. Good luck and all the best in the future!")
+  (println "Mircea & Zsolt"))
