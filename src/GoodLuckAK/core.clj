@@ -16,5 +16,6 @@
     (println " - Stefan. I know I challenged your patience a lot ;)")
     (println " - Elke - May your new adventures bring you lots of fun and excitement!")
     (println " - Tillmann")
-    (println " - Matthias"))
+    (println " - Matthias")
+    (println " - TEAM NMAA"))
   (print unchg-color))
