@@ -12,4 +12,5 @@
   (println " - count .. Thanks for all the effort & heart put in for Linux & OSS at HERE!")
   (println " - Lukas - I used vim for this. Who would ever use emacs?")
   (println " - Stefan. I know I challenged your patience a lot ;)")
-  (println " - Elke - May your new adventures bring you lots of fun and excitement!"))
+  (println " - Elke - May your new adventures bring you lots of fun and excitement!")
+  (println " - Tillmann"))
