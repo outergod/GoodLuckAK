@@ -10,6 +10,7 @@
     (println " - Enda")
     (println " - Antti Heinonen")
     (println " - Luigi")
+    (println " - Thomas - Thanks for working with us! \(OO)")
     (println " - Zeno .. thank you for showing me nyan mode and helping me to set up my beloved Visual Studio shortcuts in Emacs.")
     (println " - count .. Thanks for all the effort & heart put in for Linux & OSS at HERE!")
     (println " - Lukas - I used vim for this. Who would ever use emacs?")
